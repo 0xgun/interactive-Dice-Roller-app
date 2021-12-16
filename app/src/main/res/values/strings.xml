@@ -2,5 +2,6 @@
     <string name="app_name">Dice Roller</string>
     <string name="run">Run</string>
     <string name="roll">Roll</string>
-<!--    <string name="roll">Roll</string>-->
+    <string name="todo">TODO</string>
+    <!--    <string name="roll">Roll</string>-->
 </resources>
